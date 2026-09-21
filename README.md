@@ -26,7 +26,9 @@ Sistema web para gerenciamento de clínicas veterinárias utilizando PHP e MySQL
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/lucas-ribeiro-278b9b35a)
-[![E-mail](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](lucas.r.n.a.2006)
+www.linkedin.com/in/lucas-ribeiro-278b9b35a 
+[![E-mail](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](lucas.r.n.a.2006@gmail.com)
+lucas.r.n.a.2006@gmail.com
 
 "Aprender, praticar e evoluir um passo de cada vez."
 
